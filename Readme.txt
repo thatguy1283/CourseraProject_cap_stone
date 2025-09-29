@@ -1,1 +1,1 @@
-Thsi the capstone project for teh Applied Data Scuence Capstone from IBM
+This the capstone project for teh Applied Data Scuence Capstone from IBM
